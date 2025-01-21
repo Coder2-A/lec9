@@ -4,5 +4,3 @@ hello world
 
 
  hello github 
-
- fix bug 
